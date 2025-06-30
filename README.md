@@ -9,7 +9,7 @@
 - 🌐 Portfolio: [stellabarbarella.com](https://www.stellabarbarella.com)
 - 💼 Freelance & open to opportunities
 - 💬 Ask me about: SIEM, MITRE ATT&CK, Threat Intelligence
-- 📫 Contact: stiliana.stoyanov@orange.fr
+- 📫 Contact: stiliana.stoyanova@orange.fr
 
 ---
 
