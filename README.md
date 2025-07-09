@@ -24,7 +24,7 @@
 
 ### 🗺️ Cyber Threat Map  
 **Real-time visualization of global cyber threats.**  
-[🔗 View Project](https://stellabarbarella.com](https://stellabarbarella.com/index.html#projects)
+[🔗 View Project]([https://stellabarbarella.com/interactive-threat-map.html).
 
 ### 📧 Phishing Detector  
 **Analyze and flag suspicious emails.**  
