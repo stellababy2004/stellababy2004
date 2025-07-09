@@ -29,11 +29,11 @@
 ### 📧 Phishing Detector  
 **Analyze and flag suspicious emails.**  
 Built with JavaScript and Regex to highlight email threats in real time.  
-[🔗 Try it here](https://stellabarbarella.com)
+[🔗 Try it here](https://stellabarbarella.com/phishing-check.html)
 
 ### 🕵️ Threat Hunting Lab  
 **Hands-on simulations of attacker behaviors.**  
-[🔗 Explore Lab](https://stellabarbarella.com/threat-hunting.html)
+[🔗 Explore Lab]([https://stellabarbarella.com/threat-hunting.html](https://stellabarbarella.com/live-threats.html))
 
 ---
 
