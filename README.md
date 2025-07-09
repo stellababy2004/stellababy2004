@@ -33,7 +33,7 @@ Built with JavaScript and Regex to highlight email threats in real time.
 
 ### 🕵️ Threat Hunting Lab  
 **Hands-on simulations of attacker behaviors.**  
-[🔗 Explore Lab]([https://stellabarbarella.com/threat-hunting.html](https://stellabarbarella.com/live-threats.html))
+[🔗 Explore Lab]([https://stellabarbarella.com/threat-hunting.html)
 
 ---
 
