@@ -6,7 +6,7 @@
 
 🔒 SOC Analyst | 🧠 Threat Hunter | 🛡️ Cybersecurity Enthusiast
 
-- 🌐 Portfolio: [stellabarbarella.com](https://www.stellabarbarella.com)
+- 🌐 Portfolio: [stellabarbarella.com](https://www.stellabarbarella.com](https://stellababy2004.github.io/stella-cybersecurity-portfolio/index.html#projects)
 - 💼 Freelance & open to opportunities
 - 💬 Ask me about: SIEM, MITRE ATT&CK, Threat Intelligence
 - 📫 Contact: stiliana.stoyanova@orange.fr
