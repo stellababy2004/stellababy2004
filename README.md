@@ -1,4 +1,4 @@
-// Създайте файл: https://github.com/stellababy2004/stellababy2004/README.md
+
 # 👋 Hi, I'm Stella Barbarella (Stoyanova)
 
 <div align="center">
