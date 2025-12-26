@@ -9,7 +9,8 @@
 
 </div>
 
-## 🔒 SOC Analyst | 🧠 Threat Hunter | 🛡️ Cybersecurity Expert
+## 🔒 Cybersecurity Engineer | 🧠 SOC & Threat Hunting | 💼 Pre-Sales & Technical Demonstrations
+
 
 ---
 
